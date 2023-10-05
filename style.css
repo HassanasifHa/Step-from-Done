@@ -1,0 +1,63 @@
+    h3{
+        display: inline-block;
+    }
+
+    h4{
+        height: 10px;
+    }
+
+
+    textarea{
+        color: black;
+        font-style: italic;
+        
+    }
+
+    .container{
+        text-align: center;
+    }
+    
+    img{
+        width: 100px;
+
+        
+    }
+
+    label{
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+fieldset{
+    font-weight: bolder;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+    font:italic;
+
+}
+
+div{
+    text-align: center;
+
+}
+
+h5{
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    font:italic;
+}
+
+
+
+
+
+
+        
+
+    
